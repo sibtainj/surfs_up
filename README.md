@@ -31,5 +31,6 @@ Based on the above analysis, we can see that the temparatures are high enough fo
 Here are two additional quesries that we would recommend to gather more info for June and Decemeber:
 
  1. Get the precipitation data for June and December to get to know how much rain is there for both months.
+ 
  2. Get the precipitation data for each station for June and December. This will provide location details on where the most rain was.
 
